@@ -1,4 +1,4 @@
-# Viktoria Sbstratum Theme for Samsung
+# Viktoria Substratum Theme for Samsung
 
 ## What is themed?
 Apps with a * have the option to select one of 16 different accent colors 
