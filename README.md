@@ -30,3 +30,5 @@ Apps with a * have the option to select one of 16 different accent colors
 - YouTube*
 - Substratum*
 
+## How can i report a bug/issue?
+You can do this <a href="https://github.com/folgore95/ViktoriaIssues/issues/new">here.</a> Please provide informations such as which version of theme, which version of app if an overlay doesn't get applied, screenshots, samsung experience version and a the substratum logcat. 
